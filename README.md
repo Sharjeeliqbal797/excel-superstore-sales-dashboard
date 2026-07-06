@@ -8,7 +8,8 @@ The dashboard provides insights into sales, profit, orders, quantity, discounts,
 
 ## Dashboard Preview
 
-![Dashboard](dashboard-1.png)
+Dashboard-1.png
+
 
 ## Features
 
