@@ -33,6 +33,16 @@ The dashboard provides insights into sales, profit, orders, quantity, discounts,
 - Data Cleaning
 - Dashboard Design
 
+## Key Insights
+
+- Technology generated the highest sales.
+
+- Standard Class was the most frequently used shipping mode.
+
+- Sales varied significantly across regions.
+
+- Interactive slicers allow dynamic filt
+
 ## Dataset
 
 Global Superstore Dataset (Kaggle)
